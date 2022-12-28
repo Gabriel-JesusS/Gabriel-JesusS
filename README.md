@@ -1,9 +1,9 @@
 
 
-<h1 align="center" style="Font-size:xxx-large;">Welcome my GitHub</h1>
+<h1 align="center" style="Font-size:xxx-large;">Welcome my GitHub<img style=" position:relative; top:30px;" src="https://giffiles.alphacoders.com/146/14693.gif" height="75"></h1>
 <h2> Olá! meu nome é Gabriel de Jesus S</h2><h1 align="left">
 
-<strong>Tecnologias que eu utilizo:<img style=" position:relative; top:30px;" src="https://giffiles.alphacoders.com/146/14693.gif" height="75"></Strong> </h1>
+<strong>Tecnologias que eu utilizo:</Strong></h1>
   
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
