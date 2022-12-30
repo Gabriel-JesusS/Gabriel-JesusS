@@ -1,17 +1,19 @@
 
 
 <h1 align="center" style="Font-size:xxx-large;">Welcome my GitHub<img style=" position:relative; top:30px;" src="https://giffiles.alphacoders.com/146/14693.gif" height="75"></h1>
-<h2> Olá! meu nome é Gabriel de Jesus S</h2><h1 align="left">
+<h2> Olá! meu nome é Gabriel de Jesus S</h2>
 
-<strong>Tecnologias que eu utilizo:</Strong></h1>
+<h1 align="left">
   
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  <strong>Tecnologias que eu utilizo:    ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  
+</h1></Strong>
 
+<img align="right" src="https://media.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif"/> 
   
+ 
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gjsouls&theme=highcontrast&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gjsouls&layout=compact&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
