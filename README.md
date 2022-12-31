@@ -18,9 +18,9 @@
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gjsouls&theme=highcontrast&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gjsouls&layout=compact&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1><strong>Contato:</Strong></h1>
+<!-- <h1><strong>Contato:</Strong></h1>
 
 <div>
 <a target="blank" href="https://discord.com/channels/@meGJ%20DSF#1295"><img src="https://img.shields.io/badge/My_discord:_GJDSF%2321295_-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a target="blank" href="https://steamcommunity.com/profiles/76561199252448844/home/"><img src="https://img.shields.io/badge/Steam: Gjsouls-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-</div>
+</div> -->
