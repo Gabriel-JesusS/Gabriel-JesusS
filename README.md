@@ -2,7 +2,7 @@
 
 <h1 align="center"  style="Font-size:xxx-large;"><strong>Welcome my GitHub </strong></h1>
 
-  <div align="center"> <img  src="https://media3.giphy.com/media/nwJlrpXmRDuow/giphy.gif"  width="900"></div>
+  <div align="center"> <img  src="https://media3.giphy.com/media/nwJlrpXmRDuow/giphy.gif"  width="700"></div>
 <h2> Olá! meu nome é Gabriel de Jesus Silva</h2>
 
 
