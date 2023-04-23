@@ -2,7 +2,7 @@
 
 <h1 align="center"  style="Font-size:xxx-large;"><strong>Welcome my GitHub </strong></h1>
 
-  <div align="center"> <img  src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif"  width="900"></div>
+  <div align="center"> <img  src="https://media3.giphy.com/media/nwJlrpXmRDuow/giphy.gif"  width="900"></div>
 <h2> Olá! meu nome é Gabriel de Jesus Silva</h2>
 
 
