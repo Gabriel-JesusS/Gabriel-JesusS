@@ -3,7 +3,7 @@
 <h1 align="center"  style="Font-size:20pt;"><strong>Welcome my GitHub </strong></h1>
 
 <div align="center">
-  <img  src="https://wallpapercave.com/wp/wp11685157.jpg" height="300">
+  <img  src="https://wallpapercave.com/wp/wp11685157.jpg" >
 </div>
 
 
