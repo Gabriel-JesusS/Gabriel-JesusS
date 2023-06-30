@@ -7,7 +7,9 @@
 </div>
 
 
-<p ><h2>Sobre mim:</h2>Olá! Meu nome é Gabriel de Jesus e tenho 17 anos. Estudo programação com o objetivo de me desenvolver e aperfeiçoar, priorizando me tornar um excelente desenvolvedor front-end.</p>
+<p ><h2>Sobre mim:</h2>Olá! Meu nome é Gabriel de Jesus e tenho 17 anos. </br>
+  Estudo programação com o objetivo de me desenvolver e aperfeiçoar,</br>
+  priorizando me tornar um excelente desenvolvedor front-end.</p>
 
 
   <div >   
