@@ -3,16 +3,21 @@
 <h1 align="center"  style="Font-size:20pt;"><strong>Welcome my GitHub </strong></h1>
 
 <div align="center">
-  <img  src="https://wallpapercave.com/wp/wp11685157.jpg"  height="300" width="800" >
+  <img  src="https://wallpapercave.com/wp/wp11685157.jpg"  height="300" width="700" >
 </div>
 
 
-<p ><h2>Sobre mim:</h2>Olá! Meu nome é Gabriel de Jesus e tenho 17 anos. </br>
+<h2 ><h1>Sobre mim:</h1>Olá! Meu nome é Gabriel de Jesus e tenho 17 anos. </br>
   Estudo programação com o objetivo de me desenvolver e aperfeiçoar,</br>
-  priorizando me tornar um excelente desenvolvedor front-end.</p>
+  priorizando me tornar um excelente desenvolvedor front-end.</h2>
 
 
   <div >   
+    <br/>
+<div align ="center" >
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-JesusS&show_icons=true&theme=radical)
+</div>
 
 <h2>Tecnologias que eu utilizo:  </h2> 
 
