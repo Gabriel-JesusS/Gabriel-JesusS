@@ -1,6 +1,6 @@
 
 
-<h1 align="center"  style="Font-size:20pt;"><strong>Welcome my GitHub </strong></h1>
+<h1 align="center"  style="Font-size:25pt;"><strong>Welcome my GitHub </strong></h1>
 
 <h2 ><h1>Sobre mim:</h1>Olá! Meu nome é Gabriel de Jesus e tenho 17 anos. </br>
   Estudo programação com o objetivo de me desenvolver e aperfeiçoar,</br>
