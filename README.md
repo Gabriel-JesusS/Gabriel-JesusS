@@ -1,21 +1,22 @@
 
 
+
 <h1 align="center"  style="Font-size:25pt;"><strong>Welcome my GitHub </strong></h1>
 
 
-
-<h1>Sobre mim:</h1> <h2  >Olá! Meu nome é Gabriel de Jesus e tenho 17 anos. 
+<h1>Sobre mim:</h1> <h3  >Olá! Meu nome é Gabriel de Jesus e tenho 17 anos. 
   Estudo programação com o objetivo de me desenvolver e aperfeiçoar,
-  priorizando me tornar um excelente desenvolvedor front-end.</h2>
+  priorizando me tornar um excelente desenvolvedor front-end.</h3>
 
 
-  <div >   
-    <br/>
+
 <div align ="center" >
+<img height="300"   src= "https://miro.medium.com/v2/resize:fit:2000/0*eIhVp0KXrXSSHORN.gif" />
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-JesusS&show_icons=true&theme=radical)
 </div>
+<br/>
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-JesusS&show_icons=true&theme=midnight-purple )
 <h2>Tecnologias que eu utilizo:  </h2> 
 
 
