@@ -2,8 +2,8 @@
 
 <h1 align="center"  style="Font-size:25pt;"><strong>Welcome my GitHub </strong></h1>
 
-<h2 ><h1>Sobre mim:</h1>Olá! Meu nome é Gabriel de Jesus e tenho 17 anos. </br>
-  Estudo programação com o objetivo de me desenvolver e aperfeiçoar,</br>
+<h1>Sobre mim:</h1> <h2  >Olá! Meu nome é Gabriel de Jesus e tenho 17 anos. 
+  Estudo programação com o objetivo de me desenvolver e aperfeiçoar,
   priorizando me tornar um excelente desenvolvedor front-end.</h2>
 
 
@@ -24,7 +24,9 @@
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  
+
+          
+
 
   </div> 
 
