@@ -4,7 +4,7 @@
 <h1 align="center"  style="Font-size:25pt;"><strong>Welcome my GitHub </strong></h1>
 
 
-<h1>Sobre mim:</h1> <h3  >Olá! Meu nome é Gabriel de Jesus e tenho 17 anos. 
+<h1>Sobre mim:</h1> <h3  >Olá! Meu nome é Gabriel de Jesus e tenho 18 anos. 
   Estudo programação com o objetivo de me desenvolver e aperfeiçoar,
   priorizando me tornar um excelente desenvolvedor front-end.</h3>
 
