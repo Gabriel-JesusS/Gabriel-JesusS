@@ -5,13 +5,16 @@
 
 
 <h1>Sobre mim:</h1> <h3  >Olá! Meu nome é Gabriel de Jesus. 
-Estudante de Segurança da Informação, com interesse em cibersegurança, redes, manutenção e suporte de computadores. Busco aprimorar constantemente meus conhecimentos em tecnologia, segurança e infraestrutura, desenvolvendo projetos práticos e explorando novas ferramentas.
+Estudante de Segurança da Informação, com interesse em cibersegurança, redes,
+manutenção e suporte de computadores. Busco aprimorar constantemente meus conhecimentos em tecnologia,
+segurança e infraestrutura, desenvolvendo projetos práticos e explorando novas ferramentas.
 
 🔐 Segurança da Informação
 🖥️ Manutenção e montagem de computadores
 🌐 Redes e infraestrutura
 💻 Programação e tecnologia
-📚 Sempre aprendendo e desenvolvendo novos projetos.</h3>
+📚 Sempre aprendendo e desenvolvendo novos projetos.
+</h3>
 
 
 
