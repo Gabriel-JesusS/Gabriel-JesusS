@@ -23,9 +23,7 @@ segurança e infraestrutura, desenvolvendo projetos práticos e explorando novas
 📚 Sempre aprendendo e desenvolvendo novos projetos.
 
 </h3>
-<div align ="right" >
-<img height="150"   src= "https://media.tenor.com/YyVcCBs8paMAAAAi/record-player-pixel-art.gif" />
-  
+<div align ="right" >  
 </div>
 <br/>
 
