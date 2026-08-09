@@ -4,27 +4,33 @@
 <h1 align="center"  style="Font-size:25pt;"><strong>Welcome my GitHub </strong></h1>
 
 
-<h1>Sobre mim:</h1> <h3  >Olá! Meu nome é Gabriel de Jesus. 
+<h1>Sobre mim:</h1> <h2 >Olá! Meu nome é Gabriel de Jesus. 
 Estudante de Segurança da Informação, com interesse em cibersegurança, redes,
 manutenção e suporte de computadores. Busco aprimorar constantemente meus conhecimentos em tecnologia,
 segurança e infraestrutura, desenvolvendo projetos práticos e explorando novas ferramentas.
-
-🔐 Segurança da Informação
-🖥️ Manutenção e montagem de computadores
-🌐 Redes e infraestrutura
-💻 Programação e tecnologia
-📚 Sempre aprendendo e desenvolvendo novos projetos.
+<h2>
+  
 </h3>
 
+🔐 Segurança da Informação
 
+🖥️ Manutenção e montagem de computadores
 
-<div align ="center" >
-<img height="300"   src= "https://miro.medium.com/v2/resize:fit:2000/0*eIhVp0KXrXSSHORN.gif" />
+🌐 Redes e infraestrutura
+
+💻 Programação e tecnologia
+
+📚 Sempre aprendendo e desenvolvendo novos projetos.
+
+</h3>
+<div align ="right" >
+<img height="150"   src= "https://media.tenor.com/YyVcCBs8paMAAAAi/record-player-pixel-art.gif" />
   
 </div>
 <br/>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-JesusS&show_icons=true&theme=midnight-purple )
+[![Anurag's GitHub stats](
+https://github-stats-extended.vercel.app/api/?username=Gabriel-JesusS&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_titleGabriel-JesusS%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
 <h2>Tecnologias que eu utilizo:  </h2> 
 
 
